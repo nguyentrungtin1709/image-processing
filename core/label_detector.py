@@ -26,7 +26,7 @@ DEFAULT_CONFIG = {
     # Shape parameters
     "approx_epsilon": 0.04,
     "min_aspect_ratio": 0.2,
-    "max_aspect_ratio": 5.0,
+    "max_aspect_ratio": 2.4,
     
     # Grouping parameters
     "group_threshold": 3,
