@@ -1,0 +1,15 @@
+# ========== Computer Vision ==========
+# OpenCV: Video capture and image processing
+# - opencv-python-headless: Without GUI (uses Qt replacement)
+opencv-python-headless>=4.8.0
+
+# ========== Numerical Computing ==========
+# NumPy: Fundamental package for scientific computing
+# - Used for array operations and statistical calculations
+numpy>=1.24.0
+
+# ========== Data Visualization ==========
+# Matplotlib: Plotting library for charts and graphs
+# - Used for creating performance comparison charts
+# - Exports to PNG, PDF, SVG, etc.
+matplotlib>=3.10.0
